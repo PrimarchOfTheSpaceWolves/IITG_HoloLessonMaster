@@ -1,4 +1,4 @@
-# ITTG HoloLessonMaster
+# IITG HoloLessonMaster
 
 Unity: 2017.4.18
 MRTK: 2017.4.3
