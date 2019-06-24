@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LessonResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LessonObjList>
+    
+    <LessonObject ID="JET" dataType="3D">
+      <description>
+        <textDesc>This is an F-16.</textDesc>
+      </description>
+      <Resources>
+      	<Resource ID="f-16.obj" dataType="MODEL" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/f-16.obj"/>
+      	<Resource ID="f-16.png" dataType="TEXTURE" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/f-16.png"/>
+      </Resources>
+    </LessonObject>
+
+  </LessonObjList>
+</LessonResources>

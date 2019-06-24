@@ -1,0 +1,2 @@
+F:\REALE\SUNYIT\GrantProposals\Hololens2018\IITG2019\TriedAndTrueHolo\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+F:\REALE\SUNYIT\GrantProposals\Hololens2018\IITG2019\TriedAndTrueHolo\UWP\TriedAndTrueHolo\TriedAndTrueHolo.csproj;x86

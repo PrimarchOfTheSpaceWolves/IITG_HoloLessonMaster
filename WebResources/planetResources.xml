@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LessonResources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LessonObjList>
+    
+    <LessonObject ID="EARTH" dataType="3D">
+      <description>
+        <textDesc>This is the Earth.</textDesc>
+      </description>
+      <Resources>
+      	<Resource ID="Earth.obj" dataType="MODEL" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/Earth.obj"/>
+      	<Resource ID="earth.png" dataType="TEXTURE" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/earth.png"/>
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="VENUS" dataType="3D">
+      <description>
+        <textDesc>Venus</textDesc>
+      </description>
+      <Resources>
+        <Resource ID="Venus.obj" dataType="MODEL" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/Venus.obj"/>
+        <Resource ID="2k_venus_atmosphere.jpg" dataType="TEXTURE" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/2k_venus_atmosphere.jpg"/>
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="MARS" dataType="3D">
+      <description>
+        <textDesc>Mars</textDesc>
+      </description>
+      <Resources>
+        <Resource ID="Mars.obj" dataType="MODEL" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/Mars.obj"/>
+        <Resource ID="2k_mars.jpg" dataType="TEXTURE" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/2k_mars.jpg"/>
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="MERCURY" dataType="3D">
+      <description>
+        <textDesc>Mercury</textDesc>
+      </description>
+      <Resources>
+        <Resource ID="Mercury.obj" dataType="MODEL" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/Mercury.obj"/>
+        <Resource ID="2k_mercury.jpg" dataType="TEXTURE" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/models/2k_mercury.jpg"/>
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="EARTH_TEXT" dataType="TEXT">
+      <description>
+        <textDesc>Text describing earth.</textDesc>
+      </description>
+      <Resources>
+      	<Resource ID="0" dataType="HTML" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/text/earth.html"/>
+      	<Resource ID="1" dataType="HTML" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/text/earth2.html"/>
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="VENUS_TEXT" dataType="TEXT">
+      <description>
+        <textDesc>Text describing venus.</textDesc>
+      </description>
+      <Resources>
+        <Resource ID="0" dataType="HTML" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/text/venus.html"/>        
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="MARS_TEXT" dataType="TEXT">
+      <description>
+        <textDesc>Text describing mars.</textDesc>
+      </description>
+      <Resources>
+        <Resource ID="0" dataType="HTML" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/text/mars.html"/>        
+      </Resources>
+    </LessonObject>
+
+    <LessonObject ID="MERCURY_TEXT" dataType="TEXT">
+      <description>
+        <textDesc>Text describing mercury.</textDesc>
+      </description>
+      <Resources>
+        <Resource ID="0" dataType="HTML" path="URL:https://web.cs.sunyit.edu/~realemj/iitg/text/mercury.html"/>        
+      </Resources>
+    </LessonObject>
+
+  </LessonObjList>
+</LessonResources>
